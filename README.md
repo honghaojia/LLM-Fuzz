@@ -111,7 +111,7 @@ $(LLM-Fuzz)
 │   	└── ...
 ```
 
-#### note
+### note
 
 You may face failure to add events. If you encounter this situation, please try a few more times or change another larger language model.
 
@@ -139,7 +139,7 @@ In this part ,we will show you how to run LLM-Fuzz.
 ./run.sh
 ```
 
-#### note
+### note
 
 - You have to replace your LLM API before run LLM-Fuzz. 
 

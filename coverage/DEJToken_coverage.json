@@ -1,0 +1,22 @@
+{
+	"contract" : "DEJToken",
+	"coverage" : 34,
+	"covered_paths" : 15,
+	"state_functions_size" : 9,
+	"total_execs" : 216073,
+	"total_paths" : 44,
+	"vulnerabilities" : 
+	{
+		"delegate_call" : "No",
+		"exception_disorder" : "No",
+		"freezing" : "No",
+		"gasless_send" : "No",
+		"number_dependency" : "No",
+		"overflow" : "No",
+		"reentrancy" : "No",
+		"suicidal" : "No",
+		"time_dependency" : "No",
+		"unchecked_call" : "No",
+		"underflow" : "No"
+	}
+}

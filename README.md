@@ -121,6 +121,10 @@ More information please visit ChatGPT API reference:[API Reference - OpenAI API]
 
 In this part ,we will show you how to run LLM-Fuzz.
 
+```
+cd LLM-Fuzz
+```
+
 - add events to contracts
 
 ```
@@ -141,7 +145,7 @@ In this part ,we will show you how to run LLM-Fuzz.
 
 ### note
 
-- You have to replace your LLM API before run LLM-Fuzz. 
+- You have to replace your LLM API Key before run LLM-Fuzz. 
 
 - If you have any questions ,please email to honghaojia@cug.edu.com
 

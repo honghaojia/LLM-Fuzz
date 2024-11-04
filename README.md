@@ -11,7 +11,7 @@ git clone https://github.com/honghaojia/LLM-Fuzz.git
 
 ## Requirements
 
-LLM-Fuzz is running on Linux(Ubuntu 22.04)
+LLM-Fuzz is running on Linux(ideally Ubuntu 22.04)
 
 Dependencies:
 

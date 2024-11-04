@@ -2,6 +2,13 @@
 
 LLM-Fuzz：A novel Fuzzer utilizing Large Language Model for Ethereum Smart Contract Vulnerability Detection.
 
+## Download
+
+```
+git config --global http.sslBackend gnutls
+git clone https://github.com/honghaojia/LLM-Fuzz.git
+```
+
 ## Requirements
 
 LLM-Fuzz is running on Linux(Ubuntu 22.04)

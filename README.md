@@ -149,5 +149,9 @@ cd LLM-Fuzz
 
 - If you have any questions ,please email to honghaojia@cug.edu.com
 
+## Dataset
+We release our dataset used in our examination at page https://github.com/honghaojia/Dataset ,which has added events using ChatGPT-4,it contains 695 smart contracts in total.
+
+
 
 

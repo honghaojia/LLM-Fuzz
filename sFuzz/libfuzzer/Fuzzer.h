@@ -59,7 +59,7 @@ namespace fuzzer {
     }
   };
   class Fuzzer {
-    double smallTestTime = 5.0;
+    double smallTestTime = 1.0;
     double evaluateTime = 20.0;
     double showStatTime = 20.0;
     double maxCoverageIncrement = 0.15;

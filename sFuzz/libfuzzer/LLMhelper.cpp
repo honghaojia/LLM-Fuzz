@@ -104,7 +104,7 @@ std::string generateResponse_chatgpt(const std::string& user_input) {
 
         // Set POST data
         std::string json_data = R"({
-            "model": "gpt-4o-mini",
+            "model": "gpt-4",
             "messages": [
                 {
                     "role": "user",

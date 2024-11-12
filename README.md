@@ -1,6 +1,6 @@
 # LLM-Fuzz
 
-LLM-Fuzz：A novel Fuzzer utilizing Large Language Model for Ethereum Smart Contract Vulnerability Detection.
+Towards Robust Smart Contract Fuzzing: A Large Language Model-Based Approach.
 
 ## Download
 

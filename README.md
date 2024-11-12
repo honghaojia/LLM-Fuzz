@@ -1,6 +1,6 @@
 # LLM-Fuzz
 
-Towards Robust Smart Contract Fuzzing: A Large Language Model-Based Approach.
+LLM-Fuzz：A Large Language Model-Driven Fuzzing Approach for Smart Contracts with Call Sequence Ordering and Fine-Grained Mutation Control
 
 ## Download
 
